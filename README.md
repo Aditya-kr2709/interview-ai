@@ -1,4 +1,4 @@
-# GENAI - AI Mock Interview Platform
+# GENAI - AI  Interview Platform
 
 GENAI is a full-stack AI-powered interview preparation platform designed to help students and professionals practice interviews, receive AI-generated feedback, and track their performance over time.
 
